@@ -1,7 +1,5 @@
 # Cyclone Risk Analysis Dashboard
 
-![Cyclone Dashboard](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*xyz123exampleimage.jpg)
-
 ## Overview
 This project provides a **Cyclone Risk Analysis Dashboard** built using **Streamlit**. The dashboard visualizes and analyzes cyclone-related data, helping users understand cyclone occurrences, risk levels, and affected regions.
 
@@ -52,7 +50,7 @@ Once the dashboard is running, open the provided local URL in your browser. Use 
 - **Plotly** (for interactive graphs)
 
 ## Data Source
-The cyclone data used in this project is sourced from [XYZ Dataset](https://example-dataset-link.com).
+The cyclone data used in this project is sourced from [Admin 0 – Countries](https://www.naturalearthdata.com/downloads/110m-cultural-vectors/).
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
@@ -60,11 +58,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any queries, reach out via:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
-⭐ If you like this project, give it a star on [GitHub](https://github.com/your-username/cyclone-risk-dashboard)! 🚀
+⭐ If you like this project, give it a star 🚀
